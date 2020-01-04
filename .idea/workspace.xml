@@ -3,23 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="cb452846-d13a-4249-9a94-2d66ed5f005f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/put/poznan/bootstrap_builder/logic/Director.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/put/poznan/bootstrap_builder/logic/Director.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/put/poznan/bootstrap_builder/logic/HTMLBootstrapBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/put/poznan/bootstrap_builder/logic/HTMLBootstrapBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/put/poznan/bootstrap_builder/logic/HTMLBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/put/poznan/bootstrap_builder/logic/HTMLBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/put/poznan/bootstrap_builder/logic/HTMLFixedHeaderBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/put/poznan/bootstrap_builder/logic/HTMLFixedHeaderBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/put/poznan/bootstrap_builder/logic/HTMLFooterBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/put/poznan/bootstrap_builder/logic/HTMLFooterBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/put/poznan/bootstrap_builder/logic/HTMLMetaTagBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/put/poznan/bootstrap_builder/logic/HTMLMetaTagBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/put/poznan/bootstrap_builder/logic/HTMLOGMetaTagBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/put/poznan/bootstrap_builder/logic/HTMLOGMetaTagBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/put/poznan/bootstrap_builder/logic/HTMLStaticHeaderBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/put/poznan/bootstrap_builder/logic/HTMLStaticHeaderBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/put/poznan/bootstrap_builder/logic/HTMLTwitterMetaTagBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/put/poznan/bootstrap_builder/logic/HTMLTwitterMetaTagBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/put/poznan/bootstrap_builder/rest/BootstrapBuilderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/put/poznan/bootstrap_builder/rest/BootstrapBuilderController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/put/poznan/bootstrap_builder/logic/Director.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/put/poznan/bootstrap_builder/logic/Director.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/put/poznan/bootstrap_builder/logic/HTMLBootstrapBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/put/poznan/bootstrap_builder/logic/HTMLBootstrapBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/put/poznan/bootstrap_builder/logic/HTMLBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/put/poznan/bootstrap_builder/logic/HTMLBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/put/poznan/bootstrap_builder/logic/HTMLFixedHeaderBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/put/poznan/bootstrap_builder/logic/HTMLFixedHeaderBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/put/poznan/bootstrap_builder/logic/HTMLFooterBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/put/poznan/bootstrap_builder/logic/HTMLFooterBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/put/poznan/bootstrap_builder/logic/HTMLStaticHeaderBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/put/poznan/bootstrap_builder/logic/HTMLStaticHeaderBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/put/poznan/bootstrap_builder/rest/BootstrapBuilderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/put/poznan/bootstrap_builder/rest/BootstrapBuilderController.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,6 +14,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Arquillian JUnit Test Class" />
       </list>
     </option>
   </component>
@@ -52,6 +36,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -62,6 +48,14 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="web.server" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="pl.put.poznan.bootstrap_builder.logic" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -75,7 +69,54 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.HTMLBootstrapBuilderTest">
+    <configuration name="HTMLBootstrapBuilderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="io-project-architecture" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.put.poznan.bootstrap_builder.logic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.put.poznan.bootstrap_builder.logic" />
+      <option name="MAIN_CLASS_NAME" value="pl.put.poznan.bootstrap_builder.logic.HTMLBootstrapBuilderTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HTMLBootstrapBuilderTest.addHeaderTag" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="io-project-architecture" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.put.poznan.bootstrap_builder.logic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.put.poznan.bootstrap_builder.logic" />
+      <option name="MAIN_CLASS_NAME" value="pl.put.poznan.bootstrap_builder.logic.HTMLBootstrapBuilderTest" />
+      <option name="METHOD_NAME" value="addHeaderTag" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HTMLBootstrapBuilderTest.addMainTag" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="io-project-architecture" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.put.poznan.bootstrap_builder.logic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.put.poznan.bootstrap_builder.logic" />
+      <option name="MAIN_CLASS_NAME" value="pl.put.poznan.bootstrap_builder.logic.HTMLBootstrapBuilderTest" />
+      <option name="METHOD_NAME" value="addMainTag" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BootstrapBuilderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="io-project-architecture" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="pl.put.poznan.bootstrap_builder.app.BootstrapBuilderApplication" />
@@ -83,6 +124,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HTMLBootstrapBuilderTest" />
+        <item itemvalue="JUnit.HTMLBootstrapBuilderTest.addHeaderTag" />
+        <item itemvalue="JUnit.HTMLBootstrapBuilderTest.addMainTag" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -104,7 +152,8 @@
       <workItem from="1577368977192" duration="739000" />
       <workItem from="1577369822505" duration="604000" />
       <workItem from="1577446401752" duration="12000" />
-      <workItem from="1578148642551" duration="4744000" />
+      <workItem from="1578148642551" duration="5534000" />
+      <workItem from="1578160996927" duration="1981000" />
     </task>
     <servers />
   </component>
