@@ -33,6 +33,11 @@ public class HTMLStaticHeaderBuilder implements HTMLBuilder {
     }
 
     @Override
+    public void addLinkTag() {
+
+    }
+
+    @Override
     public void addTwitterMetaTag() {
 
     }

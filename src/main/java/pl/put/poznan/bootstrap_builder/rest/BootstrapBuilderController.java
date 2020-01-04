@@ -39,6 +39,7 @@ public class BootstrapBuilderController {
         htmlSkeletons.add(new Director(new HTMLOGMetaTagBuilder()).constructHTML());
         htmlSkeletons.add(new Director(new HTMLTwitterMetaTagBuilder()).constructHTML());
         htmlSkeletons.add(new Director(new HTMLMetaTagBuilder()).constructHTML());
+        htmlSkeletons.add(new Director(new HTMLBootstrapWithLinkBuilder()).constructHTML());
     }
 
     /**

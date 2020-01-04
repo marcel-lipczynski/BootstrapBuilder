@@ -31,6 +31,11 @@ public class HTMLMetaTagBuilder implements HTMLBuilder {
     }
 
     @Override
+    public void addLinkTag() {
+
+    }
+
+    @Override
     public void addTwitterMetaTag() {
 
     }

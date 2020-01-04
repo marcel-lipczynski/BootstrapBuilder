@@ -32,6 +32,11 @@ public class HTMLFooterBuilder implements HTMLBuilder {
     }
 
     @Override
+    public void addLinkTag() {
+
+    }
+
+    @Override
     public void addTwitterMetaTag() {
 
     }

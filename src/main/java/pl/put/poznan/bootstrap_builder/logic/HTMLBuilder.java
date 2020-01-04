@@ -6,6 +6,11 @@ package pl.put.poznan.bootstrap_builder.logic;
  */
 public interface HTMLBuilder {
 
+
+    /**
+     * Method that adds link tag to skeleton
+     */
+    void addLinkTag();
     /**
      * Method that adds HTML Twitter meta tags to skeleton
      */

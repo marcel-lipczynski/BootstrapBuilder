@@ -28,6 +28,7 @@ public class Director {
 
         htmlBuilder.addHeadTag();
 
+        htmlBuilder.addLinkTag();
         htmlBuilder.addMetaTag();
         htmlBuilder.addOGMetaTag();
         htmlBuilder.addTwitterMetaTag();

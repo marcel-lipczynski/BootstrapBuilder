@@ -1,10 +1,7 @@
 package pl.put.poznan.bootstrap_builder.logic;
-/**
- * @author Marcel Lipczynski, Grzegorz Otworowski, Zuzanna Zelek
- * @version 1.0
- * @since 1.0
- */
-public class HTMLBootstrapBuilder implements HTMLBuilder {
+
+public class HTMLBootstrapWithLinkBuilder implements HTMLBuilder {
+
     /**
      * Represents HTML which builder builds
      */
@@ -19,7 +16,7 @@ public class HTMLBootstrapBuilder implements HTMLBuilder {
      * Creates a HTMLBootstrapBuilder
      * Inside creates new instance of StringBuilder and HTML class
      */
-    public HTMLBootstrapBuilder() {
+    public HTMLBootstrapWithLinkBuilder() {
         sb = new StringBuilder();
         html = new HTML();
     }
@@ -32,10 +29,15 @@ public class HTMLBootstrapBuilder implements HTMLBuilder {
         sb.append("<main class=\"container\"></main>\n");
     }
 
+    /**
+     * Method that adds link tag with container class to skeleton
+     */
+
     @Override
     public void addLinkTag() {
-
+        sb.append("<link rel=\"stylesheet\" type=\"text/css\" href=\"\">\n");
     }
+
 
     @Override
     public void addTwitterMetaTag() {
@@ -140,7 +142,8 @@ public class HTMLBootstrapBuilder implements HTMLBuilder {
     @Override
     public HTML getHTML() {
         html.setHtmlSkeleton(sb.toString());
-        html.setDescription("bootstrap");
+        html.setDescription("bootstrap-link");
         return html;
     }
+
 }

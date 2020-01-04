@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb452846-d13a-4249-9a94-2d66ed5f005f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/put/poznan/bootstrap_builder/logic/Director.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/put/poznan/bootstrap_builder/logic/Director.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pl/put/poznan/bootstrap_builder/logic/HTMLBootstrapBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/put/poznan/bootstrap_builder/logic/HTMLBootstrapBuilder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pl/put/poznan/bootstrap_builder/logic/HTMLBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/put/poznan/bootstrap_builder/logic/HTMLBuilder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pl/put/poznan/bootstrap_builder/logic/HTMLFixedHeaderBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/put/poznan/bootstrap_builder/logic/HTMLFixedHeaderBuilder.java" afterDir="false" />
@@ -14,52 +12,14 @@
       <change beforePath="$PROJECT_DIR$/src/main/java/pl/put/poznan/bootstrap_builder/logic/HTMLOGMetaTagBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/put/poznan/bootstrap_builder/logic/HTMLOGMetaTagBuilder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pl/put/poznan/bootstrap_builder/logic/HTMLStaticHeaderBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/put/poznan/bootstrap_builder/logic/HTMLStaticHeaderBuilder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pl/put/poznan/bootstrap_builder/logic/HTMLTwitterMetaTagBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/put/poznan/bootstrap_builder/logic/HTMLTwitterMetaTagBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/allclasses-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/allclasses-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/allclasses-noframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/allclasses-noframe.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/constant-values.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/deprecated-list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/help-doc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/index-all.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/index-all.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/overview-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/overview-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/overview-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/overview-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/overview-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/app/BootstrapBuilderApplication.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/app/BootstrapBuilderApplication.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/app/class-use/BootstrapBuilderApplication.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/app/class-use/BootstrapBuilderApplication.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/app/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/app/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/app/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/app/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/app/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/app/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/app/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/app/package-use.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/Director.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/Director.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/HTML.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/HTML.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/HTMLBootstrapBuilder.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/HTMLBootstrapBuilder.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/HTMLBuilder.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/HTMLBuilder.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/HTMLFixedHeaderBuilder.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/HTMLFixedHeaderBuilder.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/HTMLFooterBuilder.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/HTMLFooterBuilder.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/HTMLStaticHeaderBuilder.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/HTMLStaticHeaderBuilder.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/class-use/Director.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/class-use/Director.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/class-use/HTML.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/class-use/HTML.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/class-use/HTMLBootstrapBuilder.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/class-use/HTMLBootstrapBuilder.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/class-use/HTMLBuilder.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/class-use/HTMLBuilder.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/class-use/HTMLFixedHeaderBuilder.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/class-use/HTMLFixedHeaderBuilder.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/class-use/HTMLFooterBuilder.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/class-use/HTMLFooterBuilder.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/class-use/HTMLStaticHeaderBuilder.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/class-use/HTMLStaticHeaderBuilder.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/package-use.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/rest/BootstrapBuilderController.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/rest/BootstrapBuilderController.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/rest/class-use/BootstrapBuilderController.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/rest/class-use/BootstrapBuilderController.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/rest/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/rest/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/rest/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/rest/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/rest/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/rest/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/rest/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/rest/package-use.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/io-project-architecture.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/io-project-architecture-1.0.FINAL-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/io-project-architecture-1.0.FINAL-javadoc.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/io-project-architecture-1.0.FINAL.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/io-project-architecture-1.0.FINAL.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/io-project-architecture-1.0.FINAL.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/io-project-architecture-1.0.FINAL.jar.original" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/javadoc-bundle-options/javadoc-options-javadoc-resources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc-bundle-options/javadoc-options-javadoc-resources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/put/poznan/bootstrap_builder/rest/BootstrapBuilderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/put/poznan/bootstrap_builder/rest/BootstrapBuilderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/put/poznan/bootstrap_builder/logic/Director.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/put/poznan/bootstrap_builder/logic/Director.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/put/poznan/bootstrap_builder/logic/HTMLBootstrapBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/put/poznan/bootstrap_builder/logic/HTMLBootstrapBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/put/poznan/bootstrap_builder/logic/HTMLBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/put/poznan/bootstrap_builder/logic/HTMLBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/put/poznan/bootstrap_builder/logic/HTMLFixedHeaderBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/put/poznan/bootstrap_builder/logic/HTMLFixedHeaderBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/put/poznan/bootstrap_builder/logic/HTMLFooterBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/put/poznan/bootstrap_builder/logic/HTMLFooterBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/put/poznan/bootstrap_builder/logic/HTMLStaticHeaderBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/put/poznan/bootstrap_builder/logic/HTMLStaticHeaderBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/put/poznan/bootstrap_builder/rest/BootstrapBuilderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/put/poznan/bootstrap_builder/rest/BootstrapBuilderController.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -144,7 +104,7 @@
       <workItem from="1577368977192" duration="739000" />
       <workItem from="1577369822505" duration="604000" />
       <workItem from="1577446401752" duration="12000" />
-      <workItem from="1578148642551" duration="3178000" />
+      <workItem from="1578148642551" duration="4744000" />
     </task>
     <servers />
   </component>
