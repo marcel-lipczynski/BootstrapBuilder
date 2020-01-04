@@ -42,7 +42,9 @@ public class HTMLMetaTagBuilder implements HTMLBuilder {
 
     @Override
     public void addMetaTag() {
-
+        sb.append("<meta name=\"description\" content=\"\" />\n" +
+                "<meta name=\"url\" content=\"\">\n" +
+                "<meta name=\"robots\" content=\"\" />\n");
     }
 
     /**

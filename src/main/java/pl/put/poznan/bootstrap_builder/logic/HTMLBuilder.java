@@ -7,6 +7,19 @@ package pl.put.poznan.bootstrap_builder.logic;
 public interface HTMLBuilder {
 
     /**
+     * Method that adds HTML Twitter meta tags to skeleton
+     */
+    void addTwitterMetaTag();
+    /**
+     * Method that adds OpenGraph meta tags to skeleton
+     */
+    void addOGMetaTag();
+    /**
+     * Method that adds HTML meta tags to skeleton
+     */
+    void addMetaTag();
+
+    /**
      * Method that adds HTML opening tag to skeleton
      */
     void addHTMLTag();

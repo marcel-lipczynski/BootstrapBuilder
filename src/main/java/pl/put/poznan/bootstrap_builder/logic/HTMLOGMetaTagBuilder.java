@@ -37,7 +37,9 @@ public class HTMLOGMetaTagBuilder implements HTMLBuilder {
 
     @Override
     public void addOGMetaTag() {
-
+        sb.append("<meta property=\"og:title\" content=\"\" />\n" +
+                "<meta property=\"og:type\" content=\"\" />\n" +
+                "<meta property=\"og:url\" content=\"\" />\n");
     }
 
     @Override

@@ -30,6 +30,22 @@ public class HTMLFooterBuilder implements HTMLBuilder {
     public void addMainTag() {
         sb.append("<main class=\"container\"></main>\n");
     }
+
+    @Override
+    public void addTwitterMetaTag() {
+
+    }
+
+    @Override
+    public void addOGMetaTag() {
+
+    }
+
+    @Override
+    public void addMetaTag() {
+
+    }
+
     /**
      * Method that adds HTML opening tag to skeleton
      */

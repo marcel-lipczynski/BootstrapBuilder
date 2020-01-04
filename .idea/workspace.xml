@@ -1,30 +1,107 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e53b60a-6a9e-4aa6-8313-fa62c0661101" name="Default Changelist" comment="" />
+    <list default="true" id="cb452846-d13a-4249-9a94-2d66ed5f005f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/put/poznan/bootstrap_builder/logic/HTMLBootstrapBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/put/poznan/bootstrap_builder/logic/HTMLBootstrapBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/put/poznan/bootstrap_builder/logic/HTMLBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/put/poznan/bootstrap_builder/logic/HTMLBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/put/poznan/bootstrap_builder/logic/HTMLFixedHeaderBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/put/poznan/bootstrap_builder/logic/HTMLFixedHeaderBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/put/poznan/bootstrap_builder/logic/HTMLFooterBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/put/poznan/bootstrap_builder/logic/HTMLFooterBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/put/poznan/bootstrap_builder/logic/HTMLMetaTagBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/put/poznan/bootstrap_builder/logic/HTMLMetaTagBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/put/poznan/bootstrap_builder/logic/HTMLOGMetaTagBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/put/poznan/bootstrap_builder/logic/HTMLOGMetaTagBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/put/poznan/bootstrap_builder/logic/HTMLStaticHeaderBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/put/poznan/bootstrap_builder/logic/HTMLStaticHeaderBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/put/poznan/bootstrap_builder/logic/HTMLTwitterMetaTagBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/put/poznan/bootstrap_builder/logic/HTMLTwitterMetaTagBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/allclasses-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/allclasses-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/allclasses-noframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/allclasses-noframe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/constant-values.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/deprecated-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/help-doc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/index-all.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/index-all.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/overview-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/overview-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/overview-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/overview-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/overview-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/app/BootstrapBuilderApplication.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/app/BootstrapBuilderApplication.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/app/class-use/BootstrapBuilderApplication.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/app/class-use/BootstrapBuilderApplication.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/app/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/app/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/app/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/app/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/app/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/app/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/app/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/app/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/Director.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/Director.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/HTML.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/HTML.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/HTMLBootstrapBuilder.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/HTMLBootstrapBuilder.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/HTMLBuilder.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/HTMLBuilder.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/HTMLFixedHeaderBuilder.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/HTMLFixedHeaderBuilder.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/HTMLFooterBuilder.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/HTMLFooterBuilder.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/HTMLStaticHeaderBuilder.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/HTMLStaticHeaderBuilder.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/class-use/Director.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/class-use/Director.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/class-use/HTML.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/class-use/HTML.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/class-use/HTMLBootstrapBuilder.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/class-use/HTMLBootstrapBuilder.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/class-use/HTMLBuilder.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/class-use/HTMLBuilder.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/class-use/HTMLFixedHeaderBuilder.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/class-use/HTMLFixedHeaderBuilder.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/class-use/HTMLFooterBuilder.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/class-use/HTMLFooterBuilder.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/class-use/HTMLStaticHeaderBuilder.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/class-use/HTMLStaticHeaderBuilder.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/rest/BootstrapBuilderController.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/rest/BootstrapBuilderController.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/rest/class-use/BootstrapBuilderController.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/rest/class-use/BootstrapBuilderController.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/rest/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/rest/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/rest/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/rest/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/rest/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/rest/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/rest/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/rest/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/io-project-architecture.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/io-project-architecture-1.0.FINAL-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/io-project-architecture-1.0.FINAL-javadoc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/io-project-architecture-1.0.FINAL.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/io-project-architecture-1.0.FINAL.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/io-project-architecture-1.0.FINAL.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/io-project-architecture-1.0.FINAL.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/javadoc-bundle-options/javadoc-options-javadoc-resources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc-bundle-options/javadoc-options-javadoc-resources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="1Tw1i4c3SUoQdFJSHFviU1R2hMm" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1UNbt9Oho8lsgYhoX5NsNgoRnKG" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelOrder2" value="2" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Documents/javafx-sdk-11.0.2/lib/javafx.graphics.jar!/" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.15234375" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -39,56 +116,9 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="BootstrapBuilder" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <module name="BootstrapBuilder" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TextTransformerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="BootstrapBuilder" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="pl.put.poznan.transformer.app.TextTransformerApplication" />
+    <configuration name="BootstrapBuilderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="io-project-architecture" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="pl.put.poznan.bootstrap_builder.app.BootstrapBuilderApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -99,16 +129,39 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3e53b60a-6a9e-4aa6-8313-fa62c0661101" name="Default Changelist" comment="" />
-      <created>1574356467962</created>
+      <changelist id="cb452846-d13a-4249-9a94-2d66ed5f005f" name="Default Changelist" comment="" />
+      <created>1575390965302</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1574356467962</updated>
-      <workItem from="1574356469160" duration="770000" />
+      <updated>1575390965302</updated>
+      <workItem from="1575390973896" duration="195000" />
+      <workItem from="1575399529869" duration="8000" />
+      <workItem from="1575399546717" duration="27000" />
+      <workItem from="1575449250746" duration="2024000" />
+      <workItem from="1575553119866" duration="80000" />
+      <workItem from="1577124736298" duration="171000" />
+      <workItem from="1577124978815" duration="401000" />
+      <workItem from="1577368977192" duration="739000" />
+      <workItem from="1577369822505" duration="604000" />
+      <workItem from="1577446401752" duration="12000" />
+      <workItem from="1578148642551" duration="3178000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

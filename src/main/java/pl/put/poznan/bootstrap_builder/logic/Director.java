@@ -24,22 +24,26 @@ public class Director {
      */
     public HTML constructHTML() {
         htmlBuilder.addHTMLTag();
+
+
         htmlBuilder.addHeadTag();
 
+        htmlBuilder.addMetaTag();
+        htmlBuilder.addOGMetaTag();
+        htmlBuilder.addTwitterMetaTag();
         htmlBuilder.addBootstrapTag();
         htmlBuilder.addTitleTag();
 
         htmlBuilder.addHeadClosingTag();
 
-
         htmlBuilder.addBodyTag();
 
         htmlBuilder.addMainTag();
-
         htmlBuilder.addHeaderTag();
         htmlBuilder.addFooterTag();
 
         htmlBuilder.addBodyClosingTag();
+
 
 
         htmlBuilder.addHTMLClosingTag();

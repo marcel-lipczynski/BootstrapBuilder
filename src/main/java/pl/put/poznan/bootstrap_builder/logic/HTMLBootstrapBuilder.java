@@ -32,6 +32,21 @@ public class HTMLBootstrapBuilder implements HTMLBuilder {
         sb.append("<main class=\"container\"></main>\n");
     }
 
+    @Override
+    public void addTwitterMetaTag() {
+
+    }
+
+    @Override
+    public void addOGMetaTag() {
+
+    }
+
+    @Override
+    public void addMetaTag() {
+
+    }
+
     /**
      * Method that adds HTML opening tag to skeleton
      */

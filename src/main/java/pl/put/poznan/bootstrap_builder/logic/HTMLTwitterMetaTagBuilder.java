@@ -34,7 +34,7 @@ public class HTMLTwitterMetaTagBuilder implements HTMLBuilder {
     public void addTwitterMetaTag() {
         sb.append("<meta name=\"twitter:card\" content=\"\" />\n" +
                 "<meta name=\"twitter:description\" content=\"\" />\n" +
-                "<meta name=\"twitter:title\" content=\"\" />");
+                "<meta name=\"twitter:title\" content=\"\" />\n");
     }
 
     @Override
