@@ -7,13 +7,17 @@ Project created for Software Engineering course at Poznan University of Technolo
   * [GET] /skeletons -> returns all skeletons
   * [GET] /skeletons/{description} -> returns skeleton with given description
   * [GET] /htmlskeleton/{description} -> returns htmlSkeleton variable from skeleton
-  * Available descriptions: "fixed", "static", "footer", "bootstrap".
+  * Available descriptions: "fixed", "static", "footer", "bootstrap","bootstrap-link", "meta","metaog","metatwitter"
   
   
 ## Documentation for following classes is available
    * Director
    * HTML
    * HTMLBuilder (interface)
+   * HTMLBootstrapBuilder
+   * HTMLFooterBuilder
+   * HTMLStaticHeaderBuilder
+   * HTMLFixedHeaderBuilder
    * BootstrapBuilderController
     
 ## Design pattern
