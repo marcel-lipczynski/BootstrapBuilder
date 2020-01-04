@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb452846-d13a-4249-9a94-2d66ed5f005f" name="Default Changelist" comment="" />
+    <list default="true" id="cb452846-d13a-4249-9a94-2d66ed5f005f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,11 +69,27 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.All in io-project-architecture">
+  <component name="RunManager" selected="JUnit.DirectorTest.constructHTML">
     <configuration name="All in io-project-architecture" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="io-project-architecture" />
       <option name="PACKAGE_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DirectorTest.constructHTML" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="io-project-architecture" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.put.poznan.bootstrap_builder.logic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.put.poznan.bootstrap_builder.logic" />
+      <option name="MAIN_CLASS_NAME" value="pl.put.poznan.bootstrap_builder.logic.DirectorTest" />
+      <option name="METHOD_NAME" value="constructHTML" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -107,22 +125,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HTMLBootstrapBuilderTest.addMainTag" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="io-project-architecture" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pl.put.poznan.bootstrap_builder.logic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="pl.put.poznan.bootstrap_builder.logic" />
-      <option name="MAIN_CLASS_NAME" value="pl.put.poznan.bootstrap_builder.logic.HTMLBootstrapBuilderTest" />
-      <option name="METHOD_NAME" value="addMainTag" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="HTMLBootstrapWithLinkBuilderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="io-project-architecture" />
       <extension name="coverage">
@@ -147,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.DirectorTest.constructHTML" />
         <item itemvalue="JUnit.All in io-project-architecture" />
         <item itemvalue="JUnit.HTMLBootstrapWithLinkBuilderTest" />
         <item itemvalue="JUnit.HTMLBootstrapBuilderTest" />
         <item itemvalue="JUnit.HTMLBootstrapBuilderTest.addHeaderTag" />
-        <item itemvalue="JUnit.HTMLBootstrapBuilderTest.addMainTag" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +178,7 @@
       <workItem from="1577369822505" duration="604000" />
       <workItem from="1577446401752" duration="12000" />
       <workItem from="1578148642551" duration="5534000" />
-      <workItem from="1578160996927" duration="2301000" />
+      <workItem from="1578160996927" duration="6836000" />
     </task>
     <servers />
   </component>
