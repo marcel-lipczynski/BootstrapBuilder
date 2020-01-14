@@ -3,7 +3,46 @@
   <component name="ChangeListManager">
     <list default="true" id="cb452846-d13a-4249-9a94-2d66ed5f005f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/allclasses-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/allclasses-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/allclasses-noframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/allclasses-noframe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/constant-values.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/deprecated-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/help-doc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/index-all.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/index-all.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/overview-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/overview-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/overview-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/overview-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/overview-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/app/BootstrapBuilderApplication.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/app/BootstrapBuilderApplication.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/app/class-use/BootstrapBuilderApplication.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/app/class-use/BootstrapBuilderApplication.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/app/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/app/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/app/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/app/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/app/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/app/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/app/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/app/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/Director.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/Director.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/HTML.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/HTML.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/HTMLBootstrapBuilder.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/HTMLBootstrapBuilder.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/HTMLBuilder.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/HTMLBuilder.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/HTMLFixedHeaderBuilder.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/HTMLFixedHeaderBuilder.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/HTMLFooterBuilder.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/HTMLFooterBuilder.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/HTMLStaticHeaderBuilder.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/HTMLStaticHeaderBuilder.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/class-use/Director.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/class-use/Director.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/class-use/HTML.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/class-use/HTML.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/class-use/HTMLBootstrapBuilder.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/class-use/HTMLBootstrapBuilder.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/class-use/HTMLBuilder.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/class-use/HTMLBuilder.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/class-use/HTMLFixedHeaderBuilder.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/class-use/HTMLFixedHeaderBuilder.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/class-use/HTMLFooterBuilder.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/class-use/HTMLFooterBuilder.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/class-use/HTMLStaticHeaderBuilder.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/class-use/HTMLStaticHeaderBuilder.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/logic/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/rest/BootstrapBuilderController.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/rest/BootstrapBuilderController.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/rest/class-use/BootstrapBuilderController.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/rest/class-use/BootstrapBuilderController.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/rest/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/rest/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/rest/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/rest/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/rest/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/rest/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/rest/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/bootstrap_builder/rest/package-use.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +60,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectId" id="1UNbt9Oho8lsgYhoX5NsNgoRnKG" />
   <component name="ProjectLevelVcsManager">
@@ -70,11 +116,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.DirectorTest.constructHTML">
+  <component name="RunManager" selected="JUnit.DirectorTest">
     <configuration name="All in io-project-architecture" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="io-project-architecture" />
       <option name="PACKAGE_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DirectorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="io-project-architecture" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.put.poznan.bootstrap_builder.logic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.put.poznan.bootstrap_builder.logic" />
+      <option name="MAIN_CLASS_NAME" value="pl.put.poznan.bootstrap_builder.logic.DirectorTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -110,22 +171,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HTMLBootstrapBuilderTest.addHeaderTag" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="io-project-architecture" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pl.put.poznan.bootstrap_builder.logic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="pl.put.poznan.bootstrap_builder.logic" />
-      <option name="MAIN_CLASS_NAME" value="pl.put.poznan.bootstrap_builder.logic.HTMLBootstrapBuilderTest" />
-      <option name="METHOD_NAME" value="addHeaderTag" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="HTMLBootstrapWithLinkBuilderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="io-project-architecture" />
       <extension name="coverage">
@@ -150,11 +195,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.DirectorTest" />
         <item itemvalue="JUnit.DirectorTest.constructHTML" />
         <item itemvalue="JUnit.All in io-project-architecture" />
         <item itemvalue="JUnit.HTMLBootstrapWithLinkBuilderTest" />
         <item itemvalue="JUnit.HTMLBootstrapBuilderTest" />
-        <item itemvalue="JUnit.HTMLBootstrapBuilderTest.addHeaderTag" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +226,8 @@
       <workItem from="1578148642551" duration="5534000" />
       <workItem from="1578160996927" duration="7048000" />
       <workItem from="1578170278279" duration="6000" />
-      <workItem from="1578220979221" duration="2056000" />
+      <workItem from="1578220979221" duration="2590000" />
+      <workItem from="1579010913521" duration="1012000" />
     </task>
     <servers />
   </component>
